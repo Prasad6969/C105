@@ -1,0 +1,13 @@
+body {
+    background-color: #dea5a4;
+    color: powderblue;
+}
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+#camera {
+    border: 1.5px dashed black;
+    width: 350px;
+    height: 350px;
+}
